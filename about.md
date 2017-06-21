@@ -13,6 +13,6 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-My favorite color is {{ page.purple }}
+My favorite color is {{ page.colors }}
 
 [lesjones@sas.upenn.edu](mailto:lesjones@sas.upenn.edu)
