@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-colors:purple
+colors: purple
 ---
 
 Some information about you!
